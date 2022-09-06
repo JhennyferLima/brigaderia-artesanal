@@ -1,0 +1,55 @@
+#first {
+    font-family: georgia;
+    color: #00a8ff;
+    text-align: center;
+    background-color: #120632;
+}
+
+#second {
+    font-family: georgia;
+    color: #120632;
+}
+
+#third {
+    font-family: georgia;
+    text-align: center;
+}
+
+#vai {
+    font-size: 18px;
+    color: #120632;
+}
+
+#go {
+    width: 400px;
+    height: 300px;
+    padding: 10;
+}
+
+#sei{
+    text-align: center;
+    font-size: 18px;
+    color: #120632;
+}
+
+#nao {
+    text-align: center;
+}
+
+h2 {
+    font-family: georgia;
+}
+
+#la {
+    width: 70px;
+    height: 70px;
+    padding: 10;   
+}
+
+#fone {
+    text-align: right;
+    color: white;
+}
+
+
+
